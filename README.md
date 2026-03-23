@@ -286,3 +286,36 @@ If you want, I can turn this into an actual repo scaffold next: folder tree, sta
 - [Security & Privacy](./docs/08-security-privacy.md)
 - [Roadmap](./docs/09-roadmap.md)
 - [Demo Script](./docs/10-demo-script.md)
+
+---
+
+## 🌐 Connect & Support
+
+If you found this project useful or interesting:
+
+- ⭐ Star the repository
+- 🛠️ Contribute to improve it
+- 🧠 Share feedback or ideas
+
+---
+
+## 📬 Contact
+
+For collaboration, feedback, or partnerships:
+
+- Email: your-email@example.com
+- LinkedIn: https://linkedin.com/in/your-profile
+
+---
+
+## 🚀 Built With Purpose
+
+CampusNexus is built to help students **never miss an opportunity again**.
+
+From discovery → to application → to success.
+
+---
+
+## 📄 License
+
+This project is licensed under the Apache License 2.0.
